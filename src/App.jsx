@@ -8,6 +8,8 @@ import Design2 from "./pages/Design2";
 import Design3 from "./pages/Design3";
 import Design4 from "./pages/Design4";
 
+import { Analytics } from "@vercel/analytics/react";
+
 function App() {
   return (
     <Router>
@@ -19,6 +21,8 @@ function App() {
         <Route path="/design3" element={<Design3 />} />
         <Route path="/design4" element={<Design4 />} />
       </Routes>
+
+      <Analytics />
     </Router>
   );
 }
