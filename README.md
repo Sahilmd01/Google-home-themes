@@ -1,16 +1,95 @@
-# React + Vite
+# 🌐 Google Homepage Redesign — Installable Theme  
+A modern, minimal redesign of the Google homepage created as part of my UI/UX learning journey as a full-stack developer.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project lets you **use the redesigned Google page as an installable web app (PWA)** on both Windows and macOS — so it feels like a native Google app with its own icon.
 
-Currently, two official plugins are available:
+If you like this project, please **⭐ Star this repository** — it means a lot and motivates future updates!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📸 Before & After
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### **Original Google Homepage**
+![Original Homepage](./images/before.png)
 
-## Expanding the ESLint configuration
+### **Redesigned Homepage**
+![Redesigned Homepage](./images/after.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+---
+
+## 🚀 How to Use This Theme
+
+You can use this redesigned Google page like a real desktop app.  
+No installation files, no setup — just open, install, and enjoy.
+
+---
+
+## 🧩 Installation Guide
+
+### **1. Open the Website**
+Click the link below to open the redesigned Google theme:
+
+👉 **https://googlethemes.vercel.app**  
+
+
+Please open it in **Google Chrome**.
+
+---
+
+## 🖥️ Install as a Desktop App (PWA)
+
+### **Windows & macOS — Same Steps**
+
+1. Open the redesigned page in **Google Chrome**  
+2. Click the **three dots** ( ⋮ ) in the top-right corner  
+3. Scroll down and click **“Save and Share”** or  
+   **“Install App…” / “Create Shortcut…”** depending on your Chrome version  
+4. Give it a name (ex: **Google Theme**)  
+5. Click **Install**  
+
+Chrome will then create:
+- A **desktop icon**  
+- A **Start Menu / Launchpad app**  
+- A standalone window that looks like a native Google app
+
+---
+
+## 📌 Pin to Taskbar or Dock (Optional)
+
+### **Windows**
+- Search **Google Theme** in the search bar  
+- Right-click → **Pin to taskbar**
+
+### **macOS**
+- Open the installed app  
+- Right-click the icon in the Dock  
+- Select **Keep in Dock**
+
+Your redesigned Google experience is now instantly accessible!
+
+---
+
+## 💻 Compatibility
+- ✔ Windows 10 / 11  
+- ✔ macOS (Intel & M1/M2)  
+- ✔ Chrome 100% supported  
+- ✔ Works like a native app  
+
+---
+
+## ⭐ Support This Project
+If you like this design or found it useful, please consider:
+
+- Giving the repo a **⭐ Star**  
+- Sharing it on LinkedIn / social platforms  
+- Leaving feedback or suggestions  
+
+Your support helps me continue improving as a full-stack developer learning UI/UX.
+
+---
+
+## 📬 Contact
+If you’d like to collaborate or provide feedback, feel free to reach out!
+
